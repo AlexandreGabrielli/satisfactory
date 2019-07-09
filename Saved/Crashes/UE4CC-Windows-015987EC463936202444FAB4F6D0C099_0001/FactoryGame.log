@@ -1,0 +1,1199 @@
+﻿Log file open, 07/04/19 12:36:10
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UEOS
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin SocketSubsystemEpic
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++FactoryGame+rel-main-ea-bu1-slim-CL-101665
+LogInit: Engine Version: 4.21.2-101665+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Compatible Engine Version: 4.21.0-4541578+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun  5 2019 14:37:49
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=7e9bc077146646a4941964ec6b092d99 -AUTH_TYPE=exchangecode -epicapp=CrabEA -epicenv=Prod -EpicPortal -epicusername=petit1suisse -epicuserid=96c4ff2ce9284d96a02fc464fcca00e5 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.050000]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.07.04-10.36.10:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.TemporalAACurrentFrameWeight:0.2]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[r.DistanceFields.DefaultVoxelDensity:0.05]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.04-10.36.10:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:985][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:985][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.04-10.36.10:985][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.04-10.36.10:986][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.04-10.36.10:987][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.04-10.36.10:987][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.04-10.36.10:987][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.07.04-10.36.10:992][  0]LogHAL: Display: Platform has ~ 16 GB [17053216768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.04-10.36.10:993][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.04-10.36.10:993][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.04-10.36.10:993][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.04-10.36.10:993][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.XGEShaderCompile:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[t.FPSChart.OpenFolderOnDump:0]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[r.XGEShaderCompile.Mode:1]]
+[2019.07.04-10.36.10:994][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.04-10.36.10:997][  0]LogInit: Computer: DESKTOP-M14BCTN
+[2019.07.04-10.36.10:997][  0]LogInit: User: AlexandreGabrielli
+[2019.07.04-10.36.10:997][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.04-10.36.10:997][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.07.04-10.36.10:997][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.04-10.36.10:997][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.07.04-10.36.10:997][  0]LogMemory: Process Physical Memory: 71.84 MB used, 71.84 MB peak
+[2019.07.04-10.36.10:997][  0]LogMemory: Process Virtual Memory: 85.24 MB used, 85.24 MB peak
+[2019.07.04-10.36.10:997][  0]LogMemory: Physical Memory: 5386.30 MB used,  10876.92 MB free, 16263.21 MB total
+[2019.07.04-10.36.10:997][  0]LogMemory: Virtual Memory: 4439.66 MB used,  134213288.00 MB free, 134217728.00 MB total
+[2019.07.04-10.36.11:176][  0]LogInit: Overriding language with engine culture configuration option (fr-FR).
+[2019.07.04-10.36.11:176][  0]LogInit: Overriding locale with engine culture configuration option (fr-FR).
+[2019.07.04-10.36.11:181][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2019.07.04-10.36.11:185][  0]LogStreaming: Display: Took  0.010s to InitEngineTextLocalization.
+[2019.07.04-10.36.11:245][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.04-10.36.11:245][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.04-10.36.11:259][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.04-10.36.11:326][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2019.07.04-10.36.11:326][  0]LogD3D11RHI:       4053/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.04-10.36.11:346][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.07.04-10.36.11:346][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.07.04-10.36.11:349][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.04-10.36.11:349][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.04-10.36.11:349][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.04-10.36.11:359][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.04-10.36.11:359][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.04-10.36.11:359][  0]LogWindows: EnumDisplayDevices:
+[2019.07.04-10.36.11:360][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.07.04-10.36.11:361][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.04-10.36.11:361][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.04-10.36.11:362][  0]LogWindows:    3. 'NVIDIA Quadro M1200' (P:1 D:1)
+[2019.07.04-10.36.11:363][  0]LogWindows:    4. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.04-10.36.11:363][  0]LogWindows:    5. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.04-10.36.11:364][  0]LogWindows:    6. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.04-10.36.11:365][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.04-10.36.11:365][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2019.07.04-10.36.11:365][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.07.04-10.36.11:365][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.07.04-10.36.11:365][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.07.04-10.36.11:417][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.04-10.36.11:437][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.04-10.36.11:500][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.07.04-10.36.11:500][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.04-10.36.11:501][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.04-10.36.11:502][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.04-10.36.11:503][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.04-10.36.11:504][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.04-10.36.11:528][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.04-10.36.11:554][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.04-10.36.11:558][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.04-10.36.11:636][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.04-10.36.11:636][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.04-10.36.11:636][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.04-10.36.11:636][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.04-10.36.11:636][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.04-10.36.11:636][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.04-10.36.11:636][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2019.07.04-10.36.11:636][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2019.07.04-10.36.11:636][  0]LogInit: Overriding language with engine culture configuration option (fr-FR).
+[2019.07.04-10.36.11:636][  0]LogInit: Overriding locale with engine culture configuration option (fr-FR).
+[2019.07.04-10.36.11:653][  0]LogStreaming: Display: Took  0.017s to InitGameTextLocalization.
+[2019.07.04-10.36.11:760][  0]LogAssetRegistry: FAssetRegistry took 0.1060 seconds to start up
+[2019.07.04-10.36.11:888][  0]LogStreaming: Display: Flushing async loaders.
+[2019.07.04-10.36.11:926][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 2 prioritized culture(s) in 0.037707 seconds
+[2019.07.04-10.36.11:926][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2019.07.04-10.36.11:940][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.04-10.36.11:959][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2443411186)
+[2019.07.04-10.36.12:129][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.07.04-10.36.12:161][  0]LogMoviePlayer: Initializing movie player
+[2019.07.04-10.36.12:206][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2019.07.04-10.36.12:213][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2019.07.04-10.36.12:225][  0]LogInit: Audiokinetic Audio Device initialized.
+[2019.07.04-10.36.12:272][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2019.07.04-10.36.12:272][  0]LogStreaming: Warning: Failed to read file 'C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2019.07.04-10.36.16:154][  0]LogSocketSubsystemEpic: FEpicSocketsModule::StartupModule()
+[2019.07.04-10.36.16:155][  0]LogEpicP2P: FEpicSocketsModule::StartupModule()
+[2019.07.04-10.36.16:264][  0]LogUObjectArray: 152899 objects as part of root set at end of initial load.
+[2019.07.04-10.36.16:264][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2019.07.04-10.36.16:264][  0]LogUObjectAllocator: 33268776 out of 0 bytes used by permanent object pool.
+[2019.07.04-10.36.16:264][  0]LogUObjectArray: CloseDisregardForGC: 152899/152899 objects in disregard for GC pool
+[2019.07.04-10.36.16:332][  0]LogEngine: Initializing Engine...
+[2019.07.04-10.36.16:452][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.04-10.36.16:508][  0]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.04-10.36.16:625][  0]LogInit: FAudioDevice initialized.
+[2019.07.04-10.36.16:636][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2019.07.04-10.36.16:636][  0]LogInit: Texture streaming: Enabled
+[2019.07.04-10.36.16:650][  0]LogSave: Display: Migrating save files from old save directory [C:/Users/Alexandre Gabrielli/Documents/My Games/FactoryGame/SaveGame/] to new save directory [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/]
+[2019.07.04-10.36.16:921][  0]UEOSLog: Warning: [EOS SDK | Plugin] Metrics Init Failed - no Platform Handle.  Have you initialized the SDK?
+[2019.07.04-10.36.16:921][  0]GameAnalyticsModule: Warning: Invalid EOS Metrics Handle
+[2019.07.04-10.36.16:921][  0]GameAnalyticsModule: Warning: AnalyticsService is initialized for Epic Online Services Metris
+[2019.07.04-10.36.16:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.04-10.36.16:923][  0]LogInit: Display: Game Engine Initialized.
+[2019.07.04-10.36.16:924][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.04-10.36.16:941][  0]LogInit: Display: Starting Game.
+[2019.07.04-10.36.16:941][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.04-10.36.16:957][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.04-10.36.17:069][  0]LogAIModule: Creating AISystem for world MenuScene_01
+[2019.07.04-10.36.17:071][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2019.07.04-10.36.17:081][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_01.MenuScene_01 up for play (max tick rate 0) at 2019.07.04-12.36.17
+[2019.07.04-10.36.17:092][  0]LogWorld: Bringing up level for play took: 0.018557
+[2019.07.04-10.36.17:094][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2019.07.04-10.36.17:095][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.04-10.36.17:095][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.04-10.36.17:095][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.04-10.36.17:152][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.04-10.36.17:152][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.04-10.36.17:152][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No key for axis inAxis = "Jump_Drift" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No key for axis inAxis = "PrimaryFire" was found
+[2019.07.04-10.36.17:153][  0]LogInput: No key for axis inAxis = "SecondaryFire" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "Use" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "ToggleBuildGun" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "inventory" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "AttentionPing" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "ResourceScanner_ToggleVehicleRecording" was found
+[2019.07.04-10.36.17:154][  0]LogInput: No key for axis inAxis = "EmoteWheel" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "Reload" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "ToggleSprint" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "BuildGunScrollUp_PhotoModeFOVUp" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "BuildGunScrollDown_PhotoModeFOVDown" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "ToggleDismantle" was found
+[2019.07.04-10.36.17:155][  0]LogInput: No key for axis inAxis = "ToggleMap_BuildGunNoSnapMode" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "OpenCodex" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "Flashlight" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "Chat" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "BuildGunSnapToGuideLines" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "PhotoMode" was found
+[2019.07.04-10.36.17:156][  0]LogInput: No key for axis inAxis = "Shortcut1" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut2" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut3" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut4" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut5" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut6" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut7" was found
+[2019.07.04-10.36.17:157][  0]LogInput: No key for axis inAxis = "Shortcut8" was found
+[2019.07.04-10.36.17:158][  0]LogInput: No key for axis inAxis = "Shortcut9" was found
+[2019.07.04-10.36.17:158][  0]LogInput: No key for axis inAxis = "Shortcut10" was found
+[2019.07.04-10.36.17:189][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2019.07.04-10.36.17:189][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.04-10.36.17:189][  0]LogLoad: Took 0.232309 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_01)
+[2019.07.04-10.36.17:233][  0]UEOSLog: Warning: [EOS SDK | Plugin] Init Success!
+[2019.07.04-10.36.17:234][  0]UEOSLog: Warning: [EOS SDK | Plugin] Platform Create - Success!
+[2019.07.04-10.36.17:234][  0]UEOSLog: Warning: [EOS SDK | Plugin] Setting Logging Callback...
+[2019.07.04-10.36.17:234][  0]UEOSLog: Warning: [EOS SDK | Plugin] Logging Callback Set.
+[2019.07.04-10.36.17:440][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.04-10.36.17:441][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.04-10.36.17:441][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.07.04-10.36.17:444][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.07.04-10.36.17:444][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.07.04-10.36.17:450][  0]LogSteamController: SteamController is not available
+[2019.07.04-10.36.19:942][  0]LogLoad: (Engine Initialization) Total time: 9.95 seconds
+[2019.07.04-10.36.19:942][  0]LogContentStreaming: Texture pool size now 2100 MB
+[2019.07.04-10.36.19:946][  0]LogSlate: Took 0.001108 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2019.07.04-10.36.19:948][  0]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2019.07.04-10.36.19:954][  0]LogSlate: Took 0.001566 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2019.07.04-10.36.20:015][  1]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.07.04-10.36.20:093][  2]LogOnline: OSS: Service status updated [Normal] -> [Connected]
+[2019.07.04-10.36.20:094][  2]LogOnline: OSS: New XMPP connection configured to Server=[wss://xmpp-service-prod.ol.epicgames.com] Port=[443]
+[2019.07.04-10.36.20:094][  2]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2019.07.04-10.36.20:265][  8]LogOnlineIdentity: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2019.07.04-10.36.20:800][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.04-10.36.20:951][ 31]UEOSLog: Warning: Large tick time detected 3.7175
+[2019.07.04-10.36.20:951][ 31]UEOSLog: Warning: Running task=FGameStartupNotificationTask
+[2019.07.04-10.36.21:495][ 50]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2019.07.04-10.36.21:495][ 50]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2019.07.04-10.36.21:495][ 50]LogTemp: Login status changed from NotLoggedIn to LoggedIn
+[2019.07.04-10.36.21:495][ 50]LogEpicP2P: [0][DetermineNATType] Starting NAT Detection
+[2019.07.04-10.36.21:508][ 50]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 96c4ff2ce9284d96a02fc464fcca00e5:prod.ol.epicgames.com:V2:Coffee Stain - Satisfactory (Diesel - Crab):WIN::5F87FB054115899F901AEA8C75A69A34 loggedin
+[2019.07.04-10.36.22:964][101]UEOSLog: Warning: Task FGameStartupNotificationTask complete in 5.73s
+[2019.07.04-10.36.25:128][180]LogInit: WinSock: I am DESKTOP-M14BCTN (172.17.192.1:0)
+[2019.07.04-10.36.25:491][194]LogEpicP2P: [0] NAT Type was Non-Symmetric
+[2019.07.04-10.36.26:707][237]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.07.04-10.36.26:707][237]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.07.04-10.36.26:707][237]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Rocky Desert?sessionName=HEIGVD?Visibility=SV_FriendsOnly?loadgame=HEIGVD_030719-154530?listen
+[2019.07.04-10.36.26:734][237]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Rocky Desert?sessionName=HEIGVD?Visibility=SV_FriendsOnly?loadgame=HEIGVD_030719-154530?listen
+[2019.07.04-10.36.26:737][237]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.36.26:737][237]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.36.26:783][237]LogStreaming: Display: Flushing async loaders.
+[2019.07.04-10.36.28:949][237]LogAIModule: Creating AISystem for world Persistent_Level
+[2019.07.04-10.36.28:951][237]LogLoad: Game class is 'BP_GameMode_C'
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGFoliageRemoval | ClassInfo: CullDistance: 20000.00 ReplicationPeriodFrame: 64 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGItemPickup | ClassInfo: CullDistance: 25000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: ReplicationGraphDebugActor | ClassInfo: 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: LobbyBeaconPlayerState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: LobbyBeaconState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGActorRepresentationManager | ClassInfo: ReplicationPeriodFrame: 4 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildableHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGFactoryHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGConveyorAttachmentHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGAttachmentSplitterHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGAttentionPingActor | ClassInfo: 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGAudioVolumeSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildable | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildableFactory | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildableConveyorAttachment | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildableAttachmentMerger | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:953][237]LogTemp: Display: Class: FGBuildableAttachmentSplitter | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableManufacturer | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableAutomatedWorkBench | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableConverter | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableConveyorBase | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableConveyorBelt | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableConveyorLift | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableDecor | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableDockingStation | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableFactoryBuilding | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableFloor | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableFoundation | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableGenerator | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableGeneratorFuel | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableGeneratorGeoThermal | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableGeneratorNuclear | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableHubTerminal | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildablePole | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildablePoweredWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildablePowerPole | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRadarTower | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 20 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRailroadBridge | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRailroadSignal | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableTrainPlatform | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRailroadStation | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRailroadSwitchControl | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRailroadTrack | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRamp | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableResourceExtractor | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableRoad | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableSignWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:954][237]LogTemp: Display: Class: FGBuildableSpaceElevator | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableSpeedSign | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableSplitterSmart | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableStair | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableStandaloneSign | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableStorage | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableTradingPost | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableTrainPlatformCargo | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableTrainPlatformEmpty | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableWalkway | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableWindTurbine | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildableWire | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGEquipment | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildGun | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGEquipmentAttachment | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGBuildGunAttachment | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGWeapon | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGC4Dispenser | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGC4Explosive | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGCentralStorageContainer | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGCentralStorageSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGChainsaw | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGChatManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGCircuitSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGWeaponInstantFire | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGColorGun | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConsumableEquipment | ClassInfo: 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConveyorBeltHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGSplineHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConveyorLiftHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConveyorMultiPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConveyorPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGConveyorPoleStackable | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGInteractActor | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:955][237]LogTemp: Display: Class: FGCrate | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGDecorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGDestructibleActor | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGProjectile | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGDestructiveProjectile | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGDropPod | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGEquipmentChild | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGEquipmentStunSpear | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFactoryBuildingHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFloorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFoliagePickup | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFoliageRemovalSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFoundationHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGFoundationSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGGamePhaseManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: GameStateBase | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: GameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGGameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGGasMask | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGGasMaskAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGResourceExtractorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGGeoThermalGeneratorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGHookshot | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGJetPack | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGJetPackAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGJumpingStilts | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGJumpingStiltsAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGManta | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGMapManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGNobeliskDetonator | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGWeaponAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGNobeliskDetonatorAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGNobeliskExplosive | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGNobeliskExplosiveAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGObjectScanner | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGObjectScannerAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGParachute | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGParachuteAttachment | ClassInfo: 
+[2019.07.04-10.36.28:956][237]LogTemp: Display: Class: FGPortableMiner | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGPortableMinerDispenser | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGWallHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGPoweredWallHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGPowerPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRadioactivitySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadBridgeHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadSwitchHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadTrackHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRailroadVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRecipeManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor_BuildableFactory | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor_CargoPlatform | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor_GeneratorFuel | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor_Manufacturing | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGReplicationDetailActor_Storage | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResearchManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResourceNode | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResourceDeposit | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResourceMiner | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResourceNodeGeyser | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGResourceScanner | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGRoadHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGSchematicManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGSpaceElevatorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGSporeFlower | ClassInfo: CullDistance: 25000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGStackableStorageHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGStairHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGStandaloneSignHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGStorySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGSuitBase | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGSuitBaseAttachment | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTimeOfDaySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGToolBelt | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTradingPostHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTrain | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTrainPlatformHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTrainStationHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTrainStationIdentifier | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGTutorialIntroManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGWalkwayHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGWeaponAttachmentProjectile | ClassInfo: 
+[2019.07.04-10.36.28:957][237]LogTemp: Display: Class: FGWeaponChild | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: FGWeaponProjectileFire | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: FGWheeledVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: FGWireHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: WorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: FGWorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: LevelScriptActor | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: MatineeActor | ClassInfo: ReplicationPeriodFrame: 20 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: MatineeActorCameraAnim | ClassInfo: ReplicationPeriodFrame: 20 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: RadialForceActor | ClassInfo: ReplicationPeriodFrame: 200 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: ServerStatReplicator | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_BuildableSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Attach_BuildGun_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_ResourceDeposit_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Attach_ResourceMiner_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Attach_ResourceScanner_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_ResourceScanner_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Equip_ResourceMiner_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_BuildGun_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_Workshop_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_WorkBench_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Holo_PowerLine_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_PowerLine_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_PowerPoleMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_ConstructorMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_Wall_8x4_02_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_Wall_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_ConveyorPole_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 0 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_AttentionPingActor_C | ClassInfo: 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: BP_Crate_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_StorageIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_SmelterMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_FoundryMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_MamIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_HubTerminal_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_GeneratorIntegratedBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_WorkBenchIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_SpeedRoadSign_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_TradingPost_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:958][237]LogTemp: Display: Class: Build_RadarTower_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 20 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_VehicleTargetPoint_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_Chainsaw_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_StunSpear_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_Rifle_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_RebarGunProjectile_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_JumpingStilts_R_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_JumpingStilts_L_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_Chainsaw_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_JumpingStilts_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_RebarGun_Projectile_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_Rifle_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_StunSpear_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_GasMask_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_HazmatSuit_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_HazmatSuit_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_GasMask_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_FoilagePickup_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_JetPack_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_ConsumeableEquipmentAttachment_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_GameState_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_ConsumeableEquipment_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_JetPack_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_DropPod_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_ObjectScanner_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_Beacon_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_Beacon_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: BP_PortableMiner_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_PortableMinerDispenser_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Holo_ConveyorBelt_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_ConveyorBeltMk1_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 7 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_Ramp_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_PortableMinerDispenser_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_Beacon_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Equip_ObjectScanner_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Attach_ShockShank_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_Ramp_8x2_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_Foundation_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_StorageContainerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_SpaceElevator_C | ClassInfo: 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_MinerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_GeneratorBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:959][237]LogTemp: Display: Class: Build_Foundation_8x2_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: Equip_ShockShank_C | ClassInfo: 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: Build_RailroadSwitchControl_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_StartingPod_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_SchematicManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_GamePhaseManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_ResearchManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_TutorialIntroManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_TimeOfDaySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_StorySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_RailroadSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_RadioactiveSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_CircuitSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_ChatManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_ResourceNodeGeyser_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: BP_ResourceNode_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.04-10.36.28:960][237]LogTemp: Display: Class: Persistent_Level_C | ClassInfo: 
+[2019.07.04-10.36.28:962][237]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.07.04-10.36.28:962][237]LogEpicP2P: [1][Manager_1] A new session request listener has been bound. PeerSessionId=[1f23b9f8474483dbaded6f9aafe171bb:7777]
+[2019.07.04-10.36.28:962][237]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.04-10.36.28:963][237]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration) is flushing async loading
+[2019.07.04-10.36.29:875][237]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration_2) is flushing async loading
+[2019.07.04-10.36.30:537][237]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Worklevel_Exploration_02) is flushing async loading
+[2019.07.04-10.36.30:728][237]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2019.07.04-12.36.30
+[2019.07.04-10.36.32:102][237]LogReplicationGraph: Warning: Spatialization Rebuild caused by: /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Build_ConveyorAttachmentMerger_C_5 at X=-261832.563 Y=-56335.684 Z=306.303. New Bias: X=-311832.563 Y=-106335.688. IsStatic: 1
+[2019.07.04-10.36.32:711][237]LogSave: Warning: ========= Load error summary =========
+[2019.07.04-10.36.32:711][237]LogSave: Warning: Found 0 Unknown Classes, 0 Unknown Levels and 36 Unknown Objects
+[2019.07.04-10.36.32:711][237]LogSave: Warning: ========= Unknown Classes =========
+[2019.07.04-10.36.32:712][237]LogSave: Warning: ========= Unknown Levels =========
+[2019.07.04-10.36.32:712][237]LogSave: Warning: ========= Unknown Objects =========
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_0
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_1
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_2
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_3
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_4
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_5
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_6
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_7
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_8
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_PlayerState_C_2.FGRecipeShortcut_9
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_BuildGun_C_2
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_ResourceScanner_C_2
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.Equip_ResourceMiner_C_2
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_BuildGun_C_3
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_ResourceScanner_C_3
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.Equip_ResourceMiner_C_3
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.Equip_ShockShank_C_22
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_11.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_13.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_8.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_9.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_6.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_4.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_5.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_3.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_2.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_10.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_7.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_0.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_12.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Manufacturing_1.OutputInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Storage_5.StorageInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Storage_3.StorageInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Storage_0.StorageInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Storage_1.StorageInventory
+[2019.07.04-10.36.32:712][237]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.FGReplicationDetailActor_Storage_2.StorageInventory
+[2019.07.04-10.36.32:727][237]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach requested by async loading code. NameToLoad: /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach
+[2019.07.04-10.36.32:727][237]LogStreaming: Error: Found 0 dependent packages...
+[2019.07.04-10.36.32:911][237]LogSave: Warning: Warning, found 1 nullpointers in mAvailableRecipes during load
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16721
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16722
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16723
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16724
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16725
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16726
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16727
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16728
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16729
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16730
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16731
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16732
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16733
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16734
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16735
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16736
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16737
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16738
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16739
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16740
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16741
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16742
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16743
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16744
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16745
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16746
+[2019.07.04-10.36.33:063][237]LogSave: Warning: Failed to load item 16747
+[2019.07.04-10.36.33:064][237]LogSave: Warning: Failed to load item 16748
+[2019.07.04-10.36.33:064][237]LogSave: Warning: Failed to load item 16749
+[2019.07.04-10.36.33:072][237]LogWorld: Bringing up level for play took: 2.509079
+[2019.07.04-10.36.33:130][237]LogOnlineSession: MCP: Player 96c4ff2ce9284d96a02fc464fcca00e5 already registered in session GameSession
+[2019.07.04-10.36.33:146][237]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.36.33:146][237]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.36.33:146][237]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.04-10.36.33:146][237]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.04-10.36.34:971][237]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.04-10.36.34:972][237]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.36.34:972][237]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.36.34:976][237]LogFactory: Warning: Put down failed because we where never equipped.
+[2019.07.04-10.36.34:976][237]LogFactory: Warning: Put down failed because we where never equipped.
+[2019.07.04-10.36.37:989][237]LogGame: Copying 0 recipes from old save format to new.
+[2019.07.04-10.36.37:990][237]LogEquipment: Warning: ArmSlot::SetOverrideEquipment, called twice with same equipment 'nullpeter'.
+[2019.07.04-10.36.37:991][237]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.36.37:992][237]AnimBlueprintLog: Warning: SLOTNODE: 'LeftArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.36.37:992][237]AnimBlueprintLog: Warning: SLOTNODE: 'RightArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.36.38:007][237]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FactoryGame/Buildable/-Shared/Particle/NewBuildingPing.NewBuildingPing_C'
+[2019.07.04-10.36.38:062][237]LogGame: Warning: Had to synchronous load fuel class [/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_Vines.Desc_Vines_C] as it wasn't loaded by schematics yet
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: 
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: Ensure condition failed: UFGFactoryLegsComponent::GetTracedFeetOffsetFromGround( FTransform( GetOwner()->GetActorRotation(), GetOwner()->GetActorLocation(), FVector::OneVector ), this, feetOffsets, highestFootOffset, longestLeg ) [File:C:\Jenkins\workspace\I_BuildVersion-staging\FactoryGame\Source\FactoryGame\Private\FGFactoryLegsComponent.cpp] [Line: 89]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: 
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: Stack: 
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758b92d26 FactoryGame-Win64-Shipping.exe!UFGFactoryLegsComponent::CreateLegs() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fgfactorylegscomponent.cpp:89]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff759e71063 FactoryGame-Win64-Shipping.exe!AActor::BeginPlay() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\actor.cpp:3331]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758a861a6 FactoryGame-Win64-Shipping.exe!AFGBuildable::BeginPlay() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\buildables\fgbuildable.cpp:188]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758a88685 FactoryGame-Win64-Shipping.exe!AFGBuildableFactory::BeginPlay() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\buildables\fgbuildablefactory.cpp:144]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758ae6f63 FactoryGame-Win64-Shipping.exe!AFGBuildableSpaceElevator::BeginPlay() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\buildables\fgbuildablespaceelevator.cpp:26]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff759e7702d FactoryGame-Win64-Shipping.exe!AActor::DispatchBeginPlay() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\actor.cpp:3281]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a709984 FactoryGame-Win64-Shipping.exe!AWorldSettings::NotifyBeginPlay() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\worldsettings.cpp:251]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758ca2ba7 FactoryGame-Win64-Shipping.exe!AFGWorldSettings::NotifyBeginPlay() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fgworldsettings.cpp:224]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a16ac61 FactoryGame-Win64-Shipping.exe!AGameMode::HandleMatchHasStarted() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\gamemode.cpp:239]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a178acb FactoryGame-Win64-Shipping.exe!AGameMode::SetMatchState() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\gamemode.cpp:355]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a6e20be FactoryGame-Win64-Shipping.exe!UWorld::BeginPlay() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\world.cpp:3796]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a67929f FactoryGame-Win64-Shipping.exe!UEngine::LoadMap() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\unrealengine.cpp:12437]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a651fc3 FactoryGame-Win64-Shipping.exe!UEngine::Browse() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11665]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a68e161 FactoryGame-Win64-Shipping.exe!UEngine::TickWorldTravel() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\unrealengine.cpp:11863]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75a17e188 FactoryGame-Win64-Shipping.exe!UGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\gameengine.cpp:1356]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff758bd1736 FactoryGame-Win64-Shipping.exe!UFGGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fggameengine.cpp:8]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff7585b7933 FactoryGame-Win64-Shipping.exe!FEngineLoop::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3703]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff7585be9dc FactoryGame-Win64-Shipping.exe!GuardedMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launch.cpp:216]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff7585bea3a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff7585c79be FactoryGame-Win64-Shipping.exe!WinMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ff75b2bd837 FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ffd37b14034 KERNEL32.DLL!UnknownFunction []
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: [Callstack] 0x00007ffd37c63691 ntdll.dll!UnknownFunction []
+[2019.07.04-10.36.39:393][237]LogOutputDevice: Error: 
+[2019.07.04-10.36.39:749][237]LogGame: Warning: Failed to find ground when adjusting trading post spawned player start
+[2019.07.04-10.36.39:749][237]LogGame: Warning: Failed to find ground when adjusting trading post spawned player start
+[2019.07.04-10.36.39:749][237]LogGame: Warning: Failed to find ground when adjusting trading post spawned player start
+[2019.07.04-10.36.40:181][237]LogWorld: Bringing World /Temp/Untitled_4.PreviewBuildingWorld up for play (max tick rate 0) at 2019.07.04-12.36.40
+[2019.07.04-10.36.40:182][237]LogWorld: Bringing up level for play took: 0.004380
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:228][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:229][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:230][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:231][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:232][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:232][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:232][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:232][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:232][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:233][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:243][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:243][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:246][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:246][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:246][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.40:246][237]LogGame: Warning: UFGItemDescriptor::GetRadioactiveDecay, class was nullpeter.
+[2019.07.04-10.36.41:489][237]LogGame: Warning: FGFoliageRemoval_241::Apply(), failed to remove 9 instances
+[2019.07.04-10.36.41:489][237]LogGame: Warning: FGFoliageRemoval_229::Apply(), failed to remove 1 instances
+[2019.07.04-10.36.41:490][237]LogGame: Warning: FGFoliageRemoval_227::Apply(), failed to remove 1 instances
+[2019.07.04-10.36.41:490][237]LogGame: Warning: FGFoliageRemoval_868::Apply(), failed to remove 1 instances
+[2019.07.04-10.36.41:492][237]LogGame: Warning: FGFoliageRemoval_1487::Apply(), failed to remove 8 instances
+[2019.07.04-10.36.41:493][237]LogGame: Warning: FGFoliageRemoval_1486::Apply(), failed to remove 1 instances
+[2019.07.04-10.36.41:493][237]LogGame: Warning: FGFoliageRemoval_1461::Apply(), failed to remove 4 instances
+[2019.07.04-10.36.41:493][237]LogGame: Warning: FGFoliageRemoval_1454::Apply(), failed to remove 2 instances
+[2019.07.04-10.36.41:494][237]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.04-10.36.41:620][237]LogLoad: Took 14.886392 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2019.07.04-10.36.41:621][237]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 12.67. EpicNetDriver_0
+[2019.07.04-10.36.41:798][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:798][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:798][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:798][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:798][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:799][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.41:799][237]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.04-10.36.42:158][237]LogStaticMesh: Allocated 512x512x385 distance field atlas = 192.5Mb, with 730 objects containing 133.9Mb backing data
+[2019.07.04-10.36.42:627][237]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2019.07.04-10.36.43:160][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.36.43:206][238]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 16.50, Realtime: 1.59. EpicNetDriver_0
+[2019.07.04-10.36.43:260][238]UEOSLog: Warning: Large tick time detected 17.2975
+[2019.07.04-10.36.43:293][238]LogSlate: Took 0.001204 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
+[2019.07.04-10.36.43:329][239]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.36.43:329][239]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.36.43:907][247]LogNet: New Dynamic NetSpeed 20000 vs old 20000
+[2019.07.04-10.37.06:840][916]LogAudio: Warning: Waited 70.730278ms for audio thread.
+[2019.07.04-10.37.06:875][916]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.07.04-10.37.06:875][916]LogAudio: Warning: Waited 105.775597ms for audio thread.
+[2019.07.04-10.37.06:911][916]LogAudio: Warning: Waited 141.575073ms for audio thread.
+[2019.07.04-10.37.06:933][916]LogAudio: Warning: Waited 164.279160ms for audio thread.
+[2019.07.04-10.37.07:024][917]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.07.04-10.37.07:024][917]LogAudio: Warning: Waited 71.615341ms for audio thread.
+[2019.07.04-10.37.07:060][917]LogAudio: Warning: Waited 107.520187ms for audio thread.
+[2019.07.04-10.37.07:063][917]LogAudio: Warning: Waited 110.224594ms for audio thread.
+[2019.07.04-10.37.13:020][ 84]LogSlate: Took 0.001606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.04-10.37.13:036][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.37.21:122][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.37.24:995][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.37.32:769][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.37.43:345][927]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.37.43:345][927]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.38.18:082][884]UEOSLog: Warning: Queuing task FRefreshPlayerSessionsTask for basic auth
+[2019.07.04-10.38.19:064][911]UEOSLog: Warning: Running task=FRefreshPlayerSessionsTask
+[2019.07.04-10.38.21:064][966]UEOSLog: Warning: Task FRefreshPlayerSessionsTask complete in 2.98s
+[2019.07.04-10.38.43:367][576]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.38.43:368][576]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.38.50:607][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.38.59:941][ 13]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 24.04 ms
+[2019.07.04-10.38.59:996][ 14]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 30.07 ms
+[2019.07.04-10.39.00:422][ 25]LogGame: Warning: FGFoliageRemoval_241::Apply(), failed to remove 9 instances
+[2019.07.04-10.39.00:422][ 25]LogGame: Warning: FGFoliageRemoval_229::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.00:423][ 25]LogGame: Warning: FGFoliageRemoval_227::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.01:256][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.04-10.39.21:648][663]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.39.21:649][663]AnimBlueprintLog: Warning: SLOTNODE: 'LeftArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.39.21:649][663]AnimBlueprintLog: Warning: SLOTNODE: 'RightArmSlot' in animation instance class Anim_3p_C already exists. Remove duplicates from the animation graph for this class.
+[2019.07.04-10.39.21:650][663]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.24:122][735]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.25:623][777]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.25:664][778]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-15153.767 Y=-128493.055 Z=11009.647] for [Char_SpaceGiraffe_C]
+[2019.07.04-10.39.27:858][842]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Stinger/AI/BB_Stinger.BB_Stinger. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.27:858][842]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Stinger/AI/BB_Stinger.BB_Stinger. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.27:858][842]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Stinger/AI/BB_Stinger.BB_Stinger. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.27:858][842]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Stinger/AI/BB_Stinger.BB_Stinger. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.27:859][842]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Stinger/AI/BB_Stinger.BB_Stinger. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.30:435][917]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.30:765][926]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.31:607][949]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 22.46 ms
+[2019.07.04-10.39.31:669][950]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 29.93 ms
+[2019.07.04-10.39.32:070][961]LogGame: Warning: FGFoliageRemoval_241::Apply(), failed to remove 9 instances
+[2019.07.04-10.39.32:070][961]LogGame: Warning: FGFoliageRemoval_229::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.32:070][961]LogGame: Warning: FGFoliageRemoval_227::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.32:914][985]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.34:943][ 41]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.36:451][ 81]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.40:262][192]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.40:978][213]LogTemp: pawnDownwardVelocity = 0.00
+[2019.07.04-10.39.41:144][217]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 21.71 ms
+[2019.07.04-10.39.41:202][218]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X1_Y3 took (less than) 30.18 ms
+[2019.07.04-10.39.41:344][222]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Hog/AI/BB_Hog.BB_Hog. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.41:344][222]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Hog/AI/BB_Hog.BB_Hog. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.41:345][222]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Hog/AI/BB_Hog.BB_Hog. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.41:629][229]LogGame: Warning: FGFoliageRemoval_241::Apply(), failed to remove 9 instances
+[2019.07.04-10.39.41:629][229]LogGame: Warning: FGFoliageRemoval_229::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.41:630][229]LogGame: Warning: FGFoliageRemoval_227::Apply(), failed to remove 1 instances
+[2019.07.04-10.39.43:383][276]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.04-10.39.43:383][276]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.04-10.39.44:414][303]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.47:639][383]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.48:321][399]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Wildlife/SpaceRabbit/AI/BB_SpaceRabbit.BB_SpaceRabbit. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.48:321][399]LogBehaviorTree: Warning: > Failed to find key 'PanicLocation' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Wildlife/SpaceRabbit/AI/BB_SpaceRabbit.BB_SpaceRabbit. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.48:321][399]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Wildlife/SpaceRabbit/AI/BB_SpaceRabbit.BB_SpaceRabbit. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.48:525][404]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.49:748][432]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Hog/AI/BB_Hog.BB_Hog. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.49:748][432]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Hog/AI/BB_Hog.BB_Hog. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.39.50:028][439]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.39.50:239][444]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Wildlife/SpaceGiraffe/BB_SpaceGiraffe.BB_SpaceGiraffe. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.40.00:727][701]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.01:787][727]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Spitter/BB_Spitter.BB_Spitter. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.40.01:787][727]LogBehaviorTree: Warning: > Failed to find key 'None' in BB asset BlackboardData /Game/FactoryGame/Character/Creature/Enemy/Spitter/BB_Spitter.BB_Spitter. BB Key Selector will be set to 'Invalid'
+[2019.07.04-10.40.06:344][841]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.08:275][890]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.09:791][926]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.12:785][998]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.13:991][ 29]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.17:402][114]LogScript: Warning: UAkGameplayStatics::PostEventAttached: No Event specified!
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: 
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: Ensure condition failed: bIsValid [File:C:\Jenkins\workspace\I_BuildVersion-staging\UE4\Engine\Source\Runtime\Engine\Private\AI\Navigation\NavigationTypes.cpp] [Line: 91]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: 
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: Stack: 
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff759e89473 FactoryGame-Win64-Shipping.exe!FNavigationRelevantData::IsCollisionDataValid() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\ai\navigation\navigationtypes.cpp:91]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a95a220 FactoryGame-Win64-Shipping.exe!FRecastTileGenerator::ValidateAndAppendGeometry() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:2142]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a921907 FactoryGame-Win64-Shipping.exe!FRecastTileGenerator::GatherGeometry() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:1903]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a950997 FactoryGame-Win64-Shipping.exe!FRecastTileGenerator::Setup() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:1655]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a908f87 FactoryGame-Win64-Shipping.exe!FRecastNavMeshGenerator::CreateTileGenerator() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:4143]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a940ead FactoryGame-Win64-Shipping.exe!FRecastNavMeshGenerator::ProcessTileTasks() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:4167]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a9551ad FactoryGame-Win64-Shipping.exe!FRecastNavMeshGenerator::TickAsyncBuild() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navmesh\recastnavmeshgenerator.cpp:3511]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a9550b8 FactoryGame-Win64-Shipping.exe!ANavigationData::TickAsyncBuild() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navigationdata.cpp:543]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a9543cb FactoryGame-Win64-Shipping.exe!UNavigationSystemV1::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\navigationsystem\private\navigationsystem.cpp:998]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a28b47e FactoryGame-Win64-Shipping.exe!UWorld::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\leveltick.cpp:1418]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75a17e1aa FactoryGame-Win64-Shipping.exe!UGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\gameengine.cpp:1367]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff758bd1736 FactoryGame-Win64-Shipping.exe!UFGGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fggameengine.cpp:8]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff7585b7933 FactoryGame-Win64-Shipping.exe!FEngineLoop::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3703]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff7585be9dc FactoryGame-Win64-Shipping.exe!GuardedMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launch.cpp:216]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff7585bea3a FactoryGame-Win64-Shipping.exe!GuardedMainWrapper() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff7585c79be FactoryGame-Win64-Shipping.exe!WinMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ff75b2bd837 FactoryGame-Win64-Shipping.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ffd37b14034 KERNEL32.DLL!UnknownFunction []
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: [Callstack] 0x00007ffd37c63691 ntdll.dll!UnknownFunction []
+[2019.07.04-10.40.17:672][120]LogOutputDevice: Error: 

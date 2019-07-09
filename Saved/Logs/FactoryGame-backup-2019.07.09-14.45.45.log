@@ -1,0 +1,714 @@
+﻿Log file open, 07/09/19 16:44:19
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UEOS
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin SocketSubsystemEpic
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.065s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++FactoryGame+rel-main-ea-bu1-slim-CL-101873
+LogInit: Engine Version: 4.21.2-101873+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Compatible Engine Version: 4.21.0-4541578+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun  5 2019 14:37:49
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=b2938d0f08cb4bbab75619021f28d6a6 -AUTH_TYPE=exchangecode -epicapp=CrabEA -epicenv=Prod -EpicPortal -epicusername=petit1suisse -epicuserid=96c4ff2ce9284d96a02fc464fcca00e5 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.09-14.44.19:727][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.050000]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.07.09-14.44.19:728][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.TemporalAACurrentFrameWeight:0.2]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[r.DistanceFields.DefaultVoxelDensity:0.05]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.09-14.44.19:729][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.09-14.44.19:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.09-14.44.19:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.09-14.44.19:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.09-14.44.19:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.09-14.44.19:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.09-14.44.19:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.09-14.44.19:741][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.09-14.44.19:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.07.09-14.44.19:750][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.09-14.44.19:750][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.09-14.44.19:750][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.09-14.44.19:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.09-14.44.19:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.09-14.44.19:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.44.19:751][  0]LogConfig: Setting CVar [[r.XGEShaderCompile:1]]
+[2019.07.09-14.44.19:752][  0]LogConfig: Setting CVar [[t.FPSChart.OpenFolderOnDump:0]]
+[2019.07.09-14.44.19:752][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2019.07.09-14.44.19:752][  0]LogConfig: Setting CVar [[r.XGEShaderCompile.Mode:1]]
+[2019.07.09-14.44.19:752][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.09-14.44.19:754][  0]LogInit: Computer: DESKTOP-M14BCTN
+[2019.07.09-14.44.19:754][  0]LogInit: User: AlexandreGabrielli
+[2019.07.09-14.44.19:754][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.09-14.44.19:754][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2019.07.09-14.44.19:754][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.09-14.44.19:754][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.07.09-14.44.19:754][  0]LogMemory: Process Physical Memory: 69.80 MB used, 69.80 MB peak
+[2019.07.09-14.44.19:755][  0]LogMemory: Process Virtual Memory: 83.88 MB used, 83.88 MB peak
+[2019.07.09-14.44.19:755][  0]LogMemory: Physical Memory: 5765.91 MB used,  10497.29 MB free, 16263.20 MB total
+[2019.07.09-14.44.19:755][  0]LogMemory: Virtual Memory: 4438.03 MB used,  134213288.00 MB free, 134217728.00 MB total
+[2019.07.09-14.44.19:941][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.44.19:942][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.44.19:947][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2019.07.09-14.44.19:978][  0]LogStreaming: Display: Took  0.036s to InitEngineTextLocalization.
+[2019.07.09-14.44.20:038][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.09-14.44.20:038][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.09-14.44.20:048][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.09-14.44.20:121][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2019.07.09-14.44.20:121][  0]LogD3D11RHI:       4053/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.09-14.44.20:151][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.07.09-14.44.20:151][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.07.09-14.44.20:154][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.09-14.44.20:154][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.09-14.44.20:154][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.09-14.44.20:164][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.09-14.44.20:164][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.09-14.44.20:164][  0]LogWindows: EnumDisplayDevices:
+[2019.07.09-14.44.20:164][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.07.09-14.44.20:165][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-14.44.20:165][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-14.44.20:165][  0]LogWindows:    3. 'NVIDIA Quadro M1200' (P:1 D:1)
+[2019.07.09-14.44.20:166][  0]LogWindows:    4. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.44.20:166][  0]LogWindows:    5. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.44.20:166][  0]LogWindows:    6. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.44.20:166][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.09-14.44.20:166][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2019.07.09-14.44.20:166][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.07.09-14.44.20:166][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.07.09-14.44.20:166][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.07.09-14.44.20:217][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.09-14.44.20:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.09-14.44.20:307][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.07.09-14.44.20:307][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.09-14.44.20:307][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.09-14.44.20:308][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.09-14.44.20:308][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.09-14.44.20:308][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.09-14.44.20:308][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.09-14.44.20:309][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.09-14.44.20:310][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.09-14.44.20:311][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.09-14.44.20:312][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.09-14.44.20:312][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.09-14.44.20:312][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.09-14.44.20:312][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.09-14.44.20:312][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.09-14.44.20:313][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.09-14.44.20:314][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.09-14.44.20:315][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.09-14.44.20:315][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.09-14.44.20:315][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.09-14.44.20:315][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.09-14.44.20:315][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.09-14.44.20:316][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.09-14.44.20:391][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.09-14.44.20:421][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.09-14.44.20:426][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.09-14.44.20:553][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.09-14.44.20:553][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.09-14.44.20:553][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.09-14.44.20:554][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.09-14.44.20:554][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.09-14.44.20:554][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.09-14.44.20:554][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2019.07.09-14.44.20:554][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.44.20:554][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.44.20:584][  0]LogStreaming: Display: Took  0.030s to InitGameTextLocalization.
+[2019.07.09-14.44.20:712][  0]LogAssetRegistry: FAssetRegistry took 0.1276 seconds to start up
+[2019.07.09-14.44.20:855][  0]LogStreaming: Display: Flushing async loaders.
+[2019.07.09-14.44.20:903][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 2 prioritized culture(s) in 0.047060 seconds
+[2019.07.09-14.44.20:904][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2019.07.09-14.44.20:916][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.09-14.44.20:936][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2443411186)
+[2019.07.09-14.44.21:131][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.07.09-14.44.21:161][  0]LogMoviePlayer: Initializing movie player
+[2019.07.09-14.44.21:198][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2019.07.09-14.44.21:204][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2019.07.09-14.44.21:216][  0]LogInit: Audiokinetic Audio Device initialized.
+[2019.07.09-14.44.21:245][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2019.07.09-14.44.21:245][  0]LogStreaming: Warning: Failed to read file 'C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2019.07.09-14.44.25:551][  0]LogSocketSubsystemEpic: FEpicSocketsModule::StartupModule()
+[2019.07.09-14.44.25:551][  0]LogEpicP2P: FEpicSocketsModule::StartupModule()
+[2019.07.09-14.44.25:666][  0]LogUObjectArray: 152903 objects as part of root set at end of initial load.
+[2019.07.09-14.44.25:666][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2019.07.09-14.44.25:666][  0]LogUObjectAllocator: 33269208 out of 0 bytes used by permanent object pool.
+[2019.07.09-14.44.25:666][  0]LogUObjectArray: CloseDisregardForGC: 152903/152903 objects in disregard for GC pool
+[2019.07.09-14.44.25:735][  0]LogEngine: Initializing Engine...
+[2019.07.09-14.44.25:859][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.09-14.44.25:913][  0]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.07.09-14.44.25:936][  0]LogInit: FAudioDevice initialized.
+[2019.07.09-14.44.25:949][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2019.07.09-14.44.25:949][  0]LogInit: Texture streaming: Enabled
+[2019.07.09-14.44.25:983][  0]LogSave: Display: Migrating save files from old save directory [C:/Users/Alexandre Gabrielli/Documents/My Games/FactoryGame/SaveGame/] to new save directory [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/]
+[2019.07.09-14.44.25:986][  0]UEOSLog: Warning: [EOS SDK | Plugin] Metrics Init Failed - no Platform Handle.  Have you initialized the SDK?
+[2019.07.09-14.44.25:986][  0]GameAnalyticsModule: Warning: Invalid EOS Metrics Handle
+[2019.07.09-14.44.25:986][  0]GameAnalyticsModule: Warning: AnalyticsService is initialized for Epic Online Services Metris
+[2019.07.09-14.44.25:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-14.44.25:993][  0]LogInit: Display: Game Engine Initialized.
+[2019.07.09-14.44.25:993][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.09-14.44.26:010][  0]LogInit: Display: Starting Game.
+[2019.07.09-14.44.26:011][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.09-14.44.26:040][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.09-14.44.26:145][  0]LogAIModule: Creating AISystem for world MenuScene_01
+[2019.07.09-14.44.26:147][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2019.07.09-14.44.26:165][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_01.MenuScene_01 up for play (max tick rate 0) at 2019.07.09-16.44.26
+[2019.07.09-14.44.26:182][  0]LogWorld: Bringing up level for play took: 0.031696
+[2019.07.09-14.44.26:185][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2019.07.09-14.44.26:188][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.44.26:189][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.44.26:189][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.44.26:265][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.09-14.44.26:265][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.09-14.44.26:265][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.09-14.44.26:265][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.09-14.44.26:266][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.09-14.44.26:266][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.09-14.44.26:266][  0]LogInput: No key for axis inAxis = "Jump_Drift" was found
+[2019.07.09-14.44.26:266][  0]LogInput: No key for axis inAxis = "PrimaryFire" was found
+[2019.07.09-14.44.26:266][  0]LogInput: No key for axis inAxis = "SecondaryFire" was found
+[2019.07.09-14.44.26:267][  0]LogInput: No key for axis inAxis = "Use" was found
+[2019.07.09-14.44.26:267][  0]LogInput: No key for axis inAxis = "ToggleBuildGun" was found
+[2019.07.09-14.44.26:267][  0]LogInput: No key for axis inAxis = "inventory" was found
+[2019.07.09-14.44.26:268][  0]LogInput: No key for axis inAxis = "AttentionPing" was found
+[2019.07.09-14.44.26:268][  0]LogInput: No key for axis inAxis = "ResourceScanner_ToggleVehicleRecording" was found
+[2019.07.09-14.44.26:268][  0]LogInput: No key for axis inAxis = "EmoteWheel" was found
+[2019.07.09-14.44.26:268][  0]LogInput: No key for axis inAxis = "Reload" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "ToggleSprint" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "BuildGunScrollUp_PhotoModeFOVUp" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "BuildGunScrollDown_PhotoModeFOVDown" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "ToggleDismantle" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "ToggleMap_BuildGunNoSnapMode" was found
+[2019.07.09-14.44.26:269][  0]LogInput: No key for axis inAxis = "OpenCodex" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "Flashlight" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "Chat" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "BuildGunSnapToGuideLines" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "PhotoMode" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "Shortcut1" was found
+[2019.07.09-14.44.26:270][  0]LogInput: No key for axis inAxis = "Shortcut2" was found
+[2019.07.09-14.44.26:271][  0]LogInput: No key for axis inAxis = "Shortcut3" was found
+[2019.07.09-14.44.26:271][  0]LogInput: No key for axis inAxis = "Shortcut4" was found
+[2019.07.09-14.44.26:271][  0]LogInput: No key for axis inAxis = "Shortcut5" was found
+[2019.07.09-14.44.26:271][  0]LogInput: No key for axis inAxis = "Shortcut6" was found
+[2019.07.09-14.44.26:272][  0]LogInput: No key for axis inAxis = "Shortcut7" was found
+[2019.07.09-14.44.26:272][  0]LogInput: No key for axis inAxis = "Shortcut8" was found
+[2019.07.09-14.44.26:272][  0]LogInput: No key for axis inAxis = "Shortcut9" was found
+[2019.07.09-14.44.26:272][  0]LogInput: No key for axis inAxis = "Shortcut10" was found
+[2019.07.09-14.44.26:308][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2019.07.09-14.44.26:309][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.44.26:309][  0]LogLoad: Took 0.269417 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_01)
+[2019.07.09-14.44.26:330][  0]UEOSLog: Warning: [EOS SDK | Plugin] Init Success!
+[2019.07.09-14.44.26:330][  0]UEOSLog: Warning: [EOS SDK | Plugin] Platform Create - Success!
+[2019.07.09-14.44.26:330][  0]UEOSLog: Warning: [EOS SDK | Plugin] Setting Logging Callback...
+[2019.07.09-14.44.26:330][  0]UEOSLog: Warning: [EOS SDK | Plugin] Logging Callback Set.
+[2019.07.09-14.44.26:536][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-14.44.26:538][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.09-14.44.26:539][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.09-14.44.26:539][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.07.09-14.44.26:540][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.07.09-14.44.26:540][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.07.09-14.44.26:545][  0]LogSteamController: SteamController is not available
+[2019.07.09-14.44.29:012][  0]LogLoad: (Engine Initialization) Total time: 10.30 seconds
+[2019.07.09-14.44.29:014][  0]LogContentStreaming: Texture pool size now 2100 MB
+[2019.07.09-14.44.29:018][  0]LogSlate: Took 0.000818 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2019.07.09-14.44.29:020][  0]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2019.07.09-14.44.29:025][  0]LogSlate: Took 0.001006 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2019.07.09-14.44.29:058][  1]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.07.09-14.44.29:120][  2]LogOnline: OSS: Service status updated [Normal] -> [Connected]
+[2019.07.09-14.44.29:123][  2]LogOnline: OSS: New XMPP connection configured to Server=[wss://xmpp-service-prod.ol.epicgames.com] Port=[443]
+[2019.07.09-14.44.29:123][  2]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2019.07.09-14.44.29:473][  4]LogOnlineIdentity: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2019.07.09-14.44.30:030][ 22]UEOSLog: Warning: Large tick time detected 3.6993
+[2019.07.09-14.44.30:030][ 22]UEOSLog: Warning: Running task=FGameStartupNotificationTask
+[2019.07.09-14.44.30:853][ 50]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2019.07.09-14.44.30:854][ 50]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2019.07.09-14.44.30:854][ 50]LogTemp: Login status changed from NotLoggedIn to LoggedIn
+[2019.07.09-14.44.30:854][ 50]LogEpicP2P: [0][DetermineNATType] Starting NAT Detection
+[2019.07.09-14.44.30:870][ 50]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 96c4ff2ce9284d96a02fc464fcca00e5:prod.ol.epicgames.com:V2:Coffee Stain - Satisfactory (Diesel - Crab):WIN::0FA1463C4B4589BA72CA928AEAFE95CF loggedin
+[2019.07.09-14.44.32:025][ 90]UEOSLog: Warning: Task FGameStartupNotificationTask complete in 5.69s
+[2019.07.09-14.44.33:803][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-14.44.34:847][187]LogEpicP2P: [0] NAT Type was Non-Symmetric
+[2019.07.09-14.44.35:976][226]LogSlate: Took 0.001462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.09-14.44.38:058][296]LogGame: Warning: GetPresenceFromNetId: No cached presence associated with the net id [9d0f22245b154912a9810c632d4a45bd]
+[2019.07.09-14.44.38:061][296]LogGame: Warning: GetPresenceFromNetId: No cached presence associated with the net id [ecbcd50068ae4c03a3e3e6b8045c8817]
+[2019.07.09-14.44.38:063][296]LogGame: Warning: GetPresenceFromNetId: No cached presence associated with the net id [6e57ce6410fa421595b8c16a9caa0648]
+[2019.07.09-14.45.44:083][625]LogSlate: Request Window 'Satisfactory  ' being destroyed
+[2019.07.09-14.45.44:135][625]LogSlate: Window 'Satisfactory  ' being destroyed
+[2019.07.09-14.45.44:138][625]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-14.45.44:156][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-14.45.44:156][625]LogEngine: All Windows Closed
+[2019.07.09-14.45.44:156][625]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.07.09-14.45.44:195][626]UEOSLog: Warning: [EOS SDK | Plugin] Shutdown Complete.
+[2019.07.09-14.45.44:799][626]LogExit: Preparing to exit.
+[2019.07.09-14.45.44:799][626]LogMoviePlayer: Shutting down movie player
+[2019.07.09-14.45.44:893][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-14.45.44:914][626]LogExit: Game engine shut down
+[2019.07.09-14.45.45:070][626]LogExit: Object subsystem successfully closed.
+[2019.07.09-14.45.45:112][626]LogD3D11RHI: Shutdown
+[2019.07.09-14.45.45:113][626]LogD3D11RHI: CleanupD3DDevice
+[2019.07.09-14.45.45:120][626]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module AIModule (208)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module NavigationSystem (207)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (204)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module WebMMedia (202)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (200)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (198)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (196)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module CharacterAI (194)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module SessionServices (192)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (190)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module MovieScene (188)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (186)
+[2019.07.09-14.45.45:120][626]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (184)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (182)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (180)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module CableComponent (178)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module AudioCapture (176)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module MediaCompositing (172)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module LinearTimecode (170)
+[2019.07.09-14.45.45:121][626]LogModuleManager: Shutting down and abandoning module ImgMedia (168)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module BackChannel (166)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module AppleVision (164)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module AppleImageUtils (162)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (160)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module GeometryCache (158)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module VariantManagerContent (156)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module EditableMesh (154)
+[2019.07.09-14.45.45:122][626]LogModuleManager: Shutting down and abandoning module EpicP2P (151)
+[2019.07.09-14.45.45:122][626]LogEpicP2P: FEpicSocketsModule::ShutdownModule()
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module RawInput (148)
+[2019.07.09-14.45.45:123][626]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module SteamController (146)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Composure (144)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module LoginFlow (142)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (140)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Rejoin (138)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Hotfix (136)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Lobby (134)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Party (132)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module Qos (130)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module FactoryGame (128)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module GameAnalyticsModule (127)
+[2019.07.09-14.45.45:123][626]GameAnalyticsModule: Display: GameAnalyticsModule has shut down
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module CoffeeCore (125)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (122)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module PhysXVehicles (120)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module ActorSequence (118)
+[2019.07.09-14.45.45:123][626]LogModuleManager: Shutting down and abandoning module UdpMessaging (116)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module TcpMessaging (114)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module FacialAnimation (112)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (110)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module AISupportModule (108)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module Paper2D (106)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module SignificanceManager (104)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module ApexDestruction (102)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module UEOS (100)
+[2019.07.09-14.45.45:124][626]LogModuleManager: Shutting down and abandoning module AkAudio (98)
+[2019.07.09-14.45.45:137][626]LogInit: Audiokinetic Audio Device terminated.
+[2019.07.09-14.45.45:137][626]LogModuleManager: Shutting down and abandoning module ReplicationGraph (96)
+[2019.07.09-14.45.45:137][626]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (94)
+[2019.07.09-14.45.45:137][626]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (92)
+[2019.07.09-14.45.45:137][626]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
+[2019.07.09-14.45.45:138][626]LogModuleManager: Shutting down and abandoning module Media (89)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module PacketHandler (86)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (84)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module MediaAssets (82)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module Overlay (80)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module UMG (78)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module Slate (76)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module MRMesh (74)
+[2019.07.09-14.45.45:144][626]LogModuleManager: Shutting down and abandoning module Messaging (72)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (70)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module XAudio2 (68)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module Networking (66)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module Core (62)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module LevelSequence (60)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module InputCore (54)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module PhysXCooking (52)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (48)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (44)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module LensDistortion (42)
+[2019.07.09-14.45.45:145][626]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2019.07.09-14.45.45:146][626]LogOnline: OSS: Mcp Shutdown!
+[2019.07.09-14.45.45:146][626]LogModuleManager: Shutting down and abandoning module XMPP (35)
+[2019.07.09-14.45.45:146][626]LogModuleManager: Shutting down and abandoning module WebSockets (34)
+[2019.07.09-14.45.45:177][626]LogModuleManager: Shutting down and abandoning module HTTP (31)
+[2019.07.09-14.45.45:177][626]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.09-14.45.45:178][626]LogHttp: Display: 	verb=[DELETE] url=[https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill/eg1~eyJraWQiOiJ0RkMyVUloRnBUTV9FYTNxY09kX01xUVQxY0JCbTlrRkxTRGZlSmhzUkc4IiwiYWxnIjoiUFMyNTYifQ.eyJhcHAiOiJkaWVzZWxfY3JhYiIsInN1YiI6Ijk2YzRmZjJjZTkyODRkOTZhMDJmYzQ2NGZjY2EwMGU1IiwiZHZpZCI6ImJhMGU5OGRmM2JlZjlkODZlMjZkYWM2M2JkMTZkMjgzIiwiY2xpZCI6IjAyNjEyODgwYWE3NzRmYjI4ZTM3NDFkM2UwMTUwMWZkIiwiYW0iOiJleGNoYW5nZV9jb2RlIiwicCI6ImVOcU5qOEVLZ3pBUVJQK25lTEFoRlExNGtFSlB2ZmtGY2QxZ01DYVNYWXVmM3hSYmFVXC8xdEN3NzgyWldBNFRGczVxWHpsbFErcjNpeWhpOWRzM0NBOVVpUTgrV0hVNXA3cHFxQUdtTUFLeEVLZnVxMExrd0lBdHBBSFNlNDBWOW1WNk1qNFwvRGlGNEZIakMyU0dTRHAxdUl6WGE5T3B2a0xjYUhCYXpMckhNQnhydWxcLzNIMStiSkhcL0g2VHNrMU0ySjRPUWRacG5oVnR6ZFRwZ09VSlY2cHVmUT09IiwiaWFpIjoiOTZjNGZmMmNlOTI4NGQ5NmEwMmZjNDY0ZmNjYTAwZTUiLCJjbHN2YyI6ImRpZXNlbF9jcmFiIiwidCI6InMiLCJpYyI6ZmFsc2UsImV4cCI6MTU2MjcxMjI2NSwiaWF0IjoxNTYyNjgzNDY1LCJqdGkiOiJkNzNhZDc0MGYyOWM0MmM4ODUxMjdiNTVmZDgzYTM4ZiJ9.AEDQGpSxALMu6gxQI278ASk60Ppgyf3kZbkkv4A1AZ1FGJ6I3zOgen37SgHX80laEo7JPFVJF_I8g2egCltOmGUz] status=Processing
+[2019.07.09-14.45.45:178][626]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module SSL (30)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module InstancedSplines (24)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.09-14.45.45:710][626]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2019.07.09-14.45.45:713][626]LogExit: Exiting.
+[2019.07.09-14.45.45:722][626]Log file closed, 07/09/19 16:45:45

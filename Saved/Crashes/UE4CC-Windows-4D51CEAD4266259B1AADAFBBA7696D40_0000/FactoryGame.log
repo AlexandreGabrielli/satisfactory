@@ -1,0 +1,1210 @@
+﻿Log file open, 07/09/19 16:50:41
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 22 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UEOS
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin SocketSubsystemEpic
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.063s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Mcp Startup!
+LogOnlineVoice: OSS: Voice interface disabled by config [OnlineSubsystem].bHasVoiceEnabled
+LogInit: Build: ++FactoryGame+rel-main-ea-bu1-slim-CL-101873
+LogInit: Engine Version: 4.21.2-101873+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Compatible Engine Version: 4.21.0-4541578+++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun  5 2019 14:37:49
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-ea-bu1-slim
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=6ad3b3781caf45c2a597452d61a0b99b -AUTH_TYPE=exchangecode -epicapp=CrabEA -epicenv=Prod -EpicPortal -epicusername=petit1suisse -epicuserid=96c4ff2ce9284d96a02fc464fcca00e5 -epiclocale=fr-FR
+LogInit: Base Directory: C:/Program Files/Epic Games/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:0]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:0]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.050000]]
+[2019.07.09-14.50.41:926][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.TemporalAACurrentFrameWeight:0.2]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[r.DistanceFields.DefaultVoxelDensity:0.05]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.09-14.50.41:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.09-14.50.41:933][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-14.50.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.09-14.50.41:935][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-14.50.41:936][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.09-14.50.41:936][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.09-14.50.41:936][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:936][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.09-14.50.41:936][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.09-14.50.41:936][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.09-14.50.41:936][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.07.09-14.50.41:941][  0]LogHAL: Display: Platform has ~ 16 GB [17053204480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.09-14.50.41:941][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.09-14.50.41:941][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.09-14.50.41:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.03]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.09-14.50.41:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.XGEShaderCompile:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[t.FPSChart.OpenFolderOnDump:0]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[r.XGEShaderCompile.Mode:1]]
+[2019.07.09-14.50.41:942][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.09-14.50.41:942][  0]LogInit: Computer: DESKTOP-M14BCTN
+[2019.07.09-14.50.41:942][  0]LogInit: User: AlexandreGabrielli
+[2019.07.09-14.50.41:942][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.09-14.50.41:942][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2019.07.09-14.50.41:942][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.09-14.50.41:942][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.07.09-14.50.41:942][  0]LogMemory: Process Physical Memory: 69.77 MB used, 69.77 MB peak
+[2019.07.09-14.50.41:942][  0]LogMemory: Process Virtual Memory: 83.92 MB used, 83.92 MB peak
+[2019.07.09-14.50.41:942][  0]LogMemory: Physical Memory: 5140.07 MB used,  11123.13 MB free, 16263.20 MB total
+[2019.07.09-14.50.41:942][  0]LogMemory: Virtual Memory: 4438.09 MB used,  134213288.00 MB free, 134217728.00 MB total
+[2019.07.09-14.50.41:958][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.50.41:958][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.50.41:962][  0]LogOnline: OSS: Flushing Catalog Service cached offers/items.
+[2019.07.09-14.50.41:987][  0]LogStreaming: Display: Took  0.029s to InitEngineTextLocalization.
+[2019.07.09-14.50.42:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.09-14.50.42:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.09-14.50.42:041][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.09-14.50.42:106][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2019.07.09-14.50.42:106][  0]LogD3D11RHI:       4053/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.09-14.50.42:122][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.07.09-14.50.42:122][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.07.09-14.50.42:124][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.09-14.50.42:124][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.09-14.50.42:124][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.09-14.50.42:132][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.09-14.50.42:132][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.09-14.50.42:132][  0]LogWindows: EnumDisplayDevices:
+[2019.07.09-14.50.42:132][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.07.09-14.50.42:133][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-14.50.42:134][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-14.50.42:134][  0]LogWindows:    3. 'NVIDIA Quadro M1200' (P:1 D:1)
+[2019.07.09-14.50.42:134][  0]LogWindows:    4. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.50.42:134][  0]LogWindows:    5. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.50.42:134][  0]LogWindows:    6. 'NVIDIA Quadro M1200' (P:0 D:0)
+[2019.07.09-14.50.42:135][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.09-14.50.42:135][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2019.07.09-14.50.42:135][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.07.09-14.50.42:135][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.07.09-14.50.42:135][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.07.09-14.50.42:178][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.09-14.50.42:196][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.09-14.50.42:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: UEOS_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2019.07.09-14.50.42:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.07.09-14.50.42:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.07.09-14.50.42:254][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.07.09-14.50.42:270][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.09-14.50.42:293][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.09-14.50.42:293][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.09-14.50.42:354][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.09-14.50.42:354][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.09-14.50.42:354][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.09-14.50.42:354][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2019.07.09-14.50.42:354][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2019.07.09-14.50.42:354][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.07.09-14.50.42:354][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2019.07.09-14.50.42:354][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2019.07.09-14.50.42:354][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.50.42:354][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2019.07.09-14.50.42:381][  0]LogStreaming: Display: Took  0.026s to InitGameTextLocalization.
+[2019.07.09-14.50.42:498][  0]LogAssetRegistry: FAssetRegistry took 0.1174 seconds to start up
+[2019.07.09-14.50.42:615][  0]LogStreaming: Display: Flushing async loaders.
+[2019.07.09-14.50.42:655][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 2 prioritized culture(s) in 0.038826 seconds
+[2019.07.09-14.50.42:655][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2019.07.09-14.50.42:665][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.07.09-14.50.42:678][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2443411186)
+[2019.07.09-14.50.42:823][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.07.09-14.50.42:838][  0]LogMoviePlayer: Initializing movie player
+[2019.07.09-14.50.42:884][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2019.07.09-14.50.42:884][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2019.07.09-14.50.42:892][  0]LogInit: Audiokinetic Audio Device initialized.
+[2019.07.09-14.50.42:895][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2019.07.09-14.50.42:895][  0]LogStreaming: Warning: Failed to read file 'C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2019.07.09-14.50.46:558][  0]LogSocketSubsystemEpic: FEpicSocketsModule::StartupModule()
+[2019.07.09-14.50.46:559][  0]LogEpicP2P: FEpicSocketsModule::StartupModule()
+[2019.07.09-14.50.46:682][  0]LogUObjectArray: 152903 objects as part of root set at end of initial load.
+[2019.07.09-14.50.46:682][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2019.07.09-14.50.46:682][  0]LogUObjectAllocator: 33269208 out of 0 bytes used by permanent object pool.
+[2019.07.09-14.50.46:682][  0]LogUObjectArray: CloseDisregardForGC: 152903/152903 objects in disregard for GC pool
+[2019.07.09-14.50.46:748][  0]LogEngine: Initializing Engine...
+[2019.07.09-14.50.46:854][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.09-14.50.46:863][  0]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.07.09-14.50.46:890][  0]LogInit: FAudioDevice initialized.
+[2019.07.09-14.50.46:901][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2019.07.09-14.50.46:901][  0]LogInit: Texture streaming: Enabled
+[2019.07.09-14.50.46:907][  0]LogSave: Display: Migrating save files from old save directory [C:/Users/Alexandre Gabrielli/Documents/My Games/FactoryGame/SaveGame/] to new save directory [C:/Users/Alexandre Gabrielli/AppData/Local/FactoryGame/Saved/SaveGames/]
+[2019.07.09-14.50.46:907][  0]UEOSLog: Warning: [EOS SDK | Plugin] Metrics Init Failed - no Platform Handle.  Have you initialized the SDK?
+[2019.07.09-14.50.46:907][  0]GameAnalyticsModule: Warning: Invalid EOS Metrics Handle
+[2019.07.09-14.50.46:907][  0]GameAnalyticsModule: Warning: AnalyticsService is initialized for Epic Online Services Metris
+[2019.07.09-14.50.46:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-14.50.46:908][  0]LogInit: Display: Game Engine Initialized.
+[2019.07.09-14.50.46:908][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.09-14.50.46:928][  0]LogInit: Display: Starting Game.
+[2019.07.09-14.50.46:928][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.09-14.50.46:946][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_01?Name=Player
+[2019.07.09-14.50.47:017][  0]LogAIModule: Creating AISystem for world MenuScene_01
+[2019.07.09-14.50.47:018][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2019.07.09-14.50.47:025][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_01.MenuScene_01 up for play (max tick rate 0) at 2019.07.09-16.50.47
+[2019.07.09-14.50.47:034][  0]LogWorld: Bringing up level for play took: 0.013520
+[2019.07.09-14.50.47:034][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2019.07.09-14.50.47:035][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.50.47:035][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.50.47:035][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.50.47:079][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.09-14.50.47:079][  0]LogInput: No action mapping for action inAction = "MoveForward" was found
+[2019.07.09-14.50.47:079][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No action mapping for action inAction = "MoveRight" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No action mapping for action inAction = "TurnRate" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No key for axis inAxis = "Jump_Drift" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No key for axis inAxis = "PrimaryFire" was found
+[2019.07.09-14.50.47:080][  0]LogInput: No key for axis inAxis = "SecondaryFire" was found
+[2019.07.09-14.50.47:081][  0]LogInput: No key for axis inAxis = "Use" was found
+[2019.07.09-14.50.47:081][  0]LogInput: No key for axis inAxis = "ToggleBuildGun" was found
+[2019.07.09-14.50.47:081][  0]LogInput: No key for axis inAxis = "inventory" was found
+[2019.07.09-14.50.47:081][  0]LogInput: No key for axis inAxis = "AttentionPing" was found
+[2019.07.09-14.50.47:081][  0]LogInput: No key for axis inAxis = "ResourceScanner_ToggleVehicleRecording" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "EmoteWheel" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "Reload" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "ToggleSprint" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "BuildGunScrollUp_PhotoModeFOVUp" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "BuildGunScrollDown_PhotoModeFOVDown" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "ToggleDismantle" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "ToggleMap_BuildGunNoSnapMode" was found
+[2019.07.09-14.50.47:082][  0]LogInput: No key for axis inAxis = "OpenCodex" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Flashlight" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Chat" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "BuildGunSnapToGuideLines" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "PhotoMode" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Shortcut1" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Shortcut2" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Shortcut3" was found
+[2019.07.09-14.50.47:083][  0]LogInput: No key for axis inAxis = "Shortcut4" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut5" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut6" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut7" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut8" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut9" was found
+[2019.07.09-14.50.47:084][  0]LogInput: No key for axis inAxis = "Shortcut10" was found
+[2019.07.09-14.50.47:108][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=exchangecode, id=[REDACTED]
+[2019.07.09-14.50.47:108][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.50.47:108][  0]LogLoad: Took 0.162397 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_01)
+[2019.07.09-14.50.47:128][  0]UEOSLog: Warning: [EOS SDK | Plugin] Init Success!
+[2019.07.09-14.50.47:128][  0]UEOSLog: Warning: [EOS SDK | Plugin] Platform Create - Success!
+[2019.07.09-14.50.47:128][  0]UEOSLog: Warning: [EOS SDK | Plugin] Setting Logging Callback...
+[2019.07.09-14.50.47:128][  0]UEOSLog: Warning: [EOS SDK | Plugin] Logging Callback Set.
+[2019.07.09-14.50.47:334][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-14.50.47:335][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.09-14.50.47:335][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.07.09-14.50.47:335][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.07.09-14.50.47:336][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.07.09-14.50.47:336][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.07.09-14.50.47:337][  0]LogSteamController: SteamController is not available
+[2019.07.09-14.50.49:929][  0]LogLoad: (Engine Initialization) Total time: 8.65 seconds
+[2019.07.09-14.50.49:929][  0]LogContentStreaming: Texture pool size now 2100 MB
+[2019.07.09-14.50.49:931][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2019.07.09-14.50.49:932][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2019.07.09-14.50.49:934][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2019.07.09-14.50.49:978][  1]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.07.09-14.50.50:039][  2]LogOnline: OSS: Service status updated [Normal] -> [Connected]
+[2019.07.09-14.50.50:040][  2]LogOnline: OSS: New XMPP connection configured to Server=[wss://xmpp-service-prod.ol.epicgames.com] Port=[443]
+[2019.07.09-14.50.50:040][  2]LogOnlineIdentity: OSS: FOnlineIdentityMcp::HandleXmppConnectionCreated
+[2019.07.09-14.50.50:223][  8]LogOnlineIdentity: OSS: Kill auth sessions request complete. url=https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill?killType=OTHERS_ACCOUNT_CLIENT_SERVICE code=204 response=[REDACTED]
+[2019.07.09-14.50.50:950][ 33]UEOSLog: Warning: Large tick time detected 3.8215
+[2019.07.09-14.50.50:950][ 33]UEOSLog: Warning: Running task=FGameStartupNotificationTask
+[2019.07.09-14.50.51:440][ 50]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2019.07.09-14.50.51:440][ 50]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2019.07.09-14.50.51:440][ 50]LogTemp: Login status changed from NotLoggedIn to LoggedIn
+[2019.07.09-14.50.51:440][ 50]LogEpicP2P: [0][DetermineNATType] Starting NAT Detection
+[2019.07.09-14.50.51:451][ 50]LogOnlineIdentity: OSS: FOnlineIdentityMcp::OnXmppLoginChanged 96c4ff2ce9284d96a02fc464fcca00e5:prod.ol.epicgames.com:V2:Coffee Stain - Satisfactory (Diesel - Crab):WIN::13CC6C2945B7BA685EB9499D0A13054E loggedin
+[2019.07.09-14.50.52:935][102]UEOSLog: Warning: Task FGameStartupNotificationTask complete in 5.81s
+[2019.07.09-14.50.54:897][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-14.50.55:438][190]LogEpicP2P: [0] NAT Type was Non-Symmetric
+[2019.07.09-14.50.57:026][246]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.09-14.51.04:269][492]LogInit: WinSock: I am DESKTOP-M14BCTN (192.168.1.102:0)
+[2019.07.09-14.51.05:959][535]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.07.09-14.51.05:959][535]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.07.09-14.51.05:959][535]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?listen?sessionName=rrfstsertwer?Visibility=SV_FriendsOnly
+[2019.07.09-14.51.05:988][535]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?listen?sessionName=rrfstsertwer?Visibility=SV_FriendsOnly
+[2019.07.09-14.51.05:991][535]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.09-14.51.05:991][535]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.09-14.51.06:033][535]LogStreaming: Display: Flushing async loaders.
+[2019.07.09-14.51.07:839][535]LogAIModule: Creating AISystem for world Persistent_Level
+[2019.07.09-14.51.07:841][535]LogLoad: Game class is 'BP_GameMode_C'
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGFoliageRemoval | ClassInfo: CullDistance: 20000.00 ReplicationPeriodFrame: 64 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGItemPickup | ClassInfo: CullDistance: 25000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: ReplicationGraphDebugActor | ClassInfo: 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: LobbyBeaconPlayerState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: LobbyBeaconState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGActorRepresentationManager | ClassInfo: ReplicationPeriodFrame: 4 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGFactoryHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGConveyorAttachmentHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGAttachmentSplitterHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGAttentionPingActor | ClassInfo: 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGAudioVolumeSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildable | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableFactory | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableConveyorAttachment | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableAttachmentMerger | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableAttachmentSplitter | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableManufacturer | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableAutomatedWorkBench | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableConverter | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableConveyorBase | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableConveyorBelt | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableConveyorLift | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableDecor | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableDockingStation | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableFactoryBuilding | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:844][535]LogTemp: Display: Class: FGBuildableFloor | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableFoundation | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableGenerator | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableGeneratorFuel | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableGeneratorGeoThermal | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableGeneratorNuclear | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableHubTerminal | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildablePole | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildablePoweredWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildablePowerPole | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRadarTower | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 20 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRailroadBridge | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRailroadSignal | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableTrainPlatform | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRailroadStation | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRailroadSwitchControl | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRailroadTrack | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRamp | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableResourceExtractor | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableRoad | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableSignWall | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableSpaceElevator | ClassInfo: 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableSpeedSign | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableSplitterSmart | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableStair | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableStandaloneSign | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableStorage | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableTradingPost | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableTrainPlatformCargo | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableTrainPlatformEmpty | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableWalkway | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:845][535]LogTemp: Display: Class: FGBuildableWindTurbine | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGBuildableWire | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGEquipment | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGBuildGun | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGEquipmentAttachment | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGBuildGunAttachment | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGWeapon | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGC4Dispenser | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGC4Explosive | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGCentralStorageContainer | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGCentralStorageSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGChainsaw | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGChatManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGCircuitSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGWeaponInstantFire | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGColorGun | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConsumableEquipment | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConveyorBeltHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGSplineHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConveyorLiftHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConveyorMultiPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConveyorPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGConveyorPoleStackable | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGInteractActor | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGCrate | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGDecorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGDestructibleActor | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGProjectile | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGDestructiveProjectile | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGDropPod | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGEquipmentChild | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGEquipmentStunSpear | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFactoryBuildingHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFloorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFoliagePickup | ClassInfo: 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFoliageRemovalSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFoundationHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGFoundationSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: FGGamePhaseManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:846][535]LogTemp: Display: Class: GameStateBase | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: GameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGGameState | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGGasMask | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGGasMaskAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGResourceExtractorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGGeoThermalGeneratorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGHookshot | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGJetPack | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGJetPackAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGJumpingStilts | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGJumpingStiltsAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGManta | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGMapManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGNobeliskDetonator | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGWeaponAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGNobeliskDetonatorAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGNobeliskExplosive | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGNobeliskExplosiveAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGObjectScanner | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGObjectScannerAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGParachute | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGParachuteAttachment | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGPortableMiner | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGPortableMinerDispenser | ClassInfo: 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGWallHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGPoweredWallHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGPowerPoleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRadioactivitySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadBridgeHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadSubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadSwitchHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadTrackHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:847][535]LogTemp: Display: Class: FGRailroadVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGRecipeManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor_BuildableFactory | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor_CargoPlatform | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor_GeneratorFuel | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor_Manufacturing | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGReplicationDetailActor_Storage | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResearchManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResourceNode | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResourceDeposit | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResourceMiner | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResourceNodeGeyser | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGResourceScanner | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGRoadHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGSchematicManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGSpaceElevatorHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGSporeFlower | ClassInfo: CullDistance: 25000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGStackableStorageHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGStairHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGStandaloneSignHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGStorySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGSuitBase | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGSuitBaseAttachment | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTimeOfDaySubsystem | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGToolBelt | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTradingPostHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTrain | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTrainPlatformHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTrainStationHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTrainStationIdentifier | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGTutorialIntroManager | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGWalkwayHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGWeaponAttachmentProjectile | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGWeaponChild | ClassInfo: 
+[2019.07.09-14.51.07:848][535]LogTemp: Display: Class: FGWeaponProjectileFire | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: FGWheeledVehicleHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: FGWireHologram | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: WorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: FGWorldSettings | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: LevelScriptActor | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: MatineeActor | ClassInfo: ReplicationPeriodFrame: 20 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: MatineeActorCameraAnim | ClassInfo: ReplicationPeriodFrame: 20 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: RadialForceActor | ClassInfo: ReplicationPeriodFrame: 200 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: ServerStatReplicator | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_BuildableSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_RailroadSwitchControl_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_WorkBench_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Workshop_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_StorageContainerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_MinerMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Ramp_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Ramp_8x2_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Foundation_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Foundation_8x2_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Wall_8x4_01_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_Wall_8x4_02_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_ConsumeableEquipmentAttachment_C | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_ConsumeableEquipment_C | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Attach_ObjectScanner_C | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Equip_ObjectScanner_C | ClassInfo: 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Build_GeneratorBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_StartingPod_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_SchematicManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_GamePhaseManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_ResearchManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_TutorialIntroManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_TimeOfDaySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_StorySubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_RailroadSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_RadioactiveSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_CircuitSubsystem_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: BP_ChatManager_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:849][535]LogTemp: Display: Class: Attach_BuildGun_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_ResourceDeposit_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_ResourceMiner_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_Chainsaw_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_Chainsaw_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_RebarGunProjectile_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_JumpingStilts_R_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_JumpingStilts_L_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_JumpingStilts_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_RebarGun_Projectile_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_ShockShank_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_Rifle_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_Rifle_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_ShockShank_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_StunSpear_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_StunSpear_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_SpaceElevator_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_GasMask_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_HazmatSuit_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_HazmatSuit_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_GasMask_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_ConstructorMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_FoilagePickup_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_AttentionPingActor_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_VehicleTargetPoint_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_HubTerminal_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_GeneratorIntegratedBiomass_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_WorkBenchIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_StorageIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_SmelterMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_FoundryMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_MamIntegrated_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_PortableMinerDispenser_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_PortableMinerDispenser_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_Beacon_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_Beacon_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_JetPack_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_GameState_C | ClassInfo: ReplicationPeriodFrame: 2 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_JetPack_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_ConveyorPole_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 0 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Holo_ConveyorBelt_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_ConveyorBeltMk1_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 7 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Holo_PowerLine_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_PowerLine_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_PowerPoleMk1_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_DropPod_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_PortableMiner_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_Beacon_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_SpeedRoadSign_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_TradingPost_C | ClassInfo: CullDistance: 75000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Build_RadarTower_C | ClassInfo: CullDistance: 75000.00 ReplicationPeriodFrame: 20 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Attach_ResourceScanner_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_ResourceScanner_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Equip_ResourceMiner_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_BuildGun_C | ClassInfo: 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_Crate_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_ResourceNodeGeyser_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: BP_ResourceNode_C | ClassInfo: CullDistance: 15000.00 
+[2019.07.09-14.51.07:850][535]LogTemp: Display: Class: Persistent_Level_C | ClassInfo: 
+[2019.07.09-14.51.07:852][535]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.07.09-14.51.07:852][535]LogEpicP2P: [1][Manager_1] A new session request listener has been bound. PeerSessionId=[a7ab9db44b5687e081dd02ac2456d844:7777]
+[2019.07.09-14.51.07:852][535]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.09-14.51.07:853][535]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration) is flushing async loading
+[2019.07.09-14.51.08:673][535]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration_2) is flushing async loading
+[2019.07.09-14.51.09:298][535]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Worklevel_Exploration_02) is flushing async loading
+[2019.07.09-14.51.09:483][535]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2019.07.09-16.51.09
+[2019.07.09-14.51.10:695][535]LogStreaming: Error: Couldn't find file for package /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach requested by async loading code. NameToLoad: /Game/FactoryGame/Testing/PartyCamera/PartyCamera_SnakeBeach
+[2019.07.09-14.51.10:695][535]LogStreaming: Error: Found 0 dependent packages...
+[2019.07.09-14.51.10:829][535]LogReplicationGraph: Warning: Spatialization Rebuild caused by: /Game/FactoryGame/Map/GameLevel01/Persistent_Exploration.Persistent_Exploration:PersistentLevel.BP_DestructibleLargeRock_2 at X=59086.328 Y=-71443.766 Z=10656.715. New Bias: X=-15000.000 Y=-121443.766. IsStatic: 1
+[2019.07.09-14.51.10:846][535]LogWorld: Bringing up level for play took: 1.522251
+[2019.07.09-14.51.10:914][535]LogOnlineSession: MCP: Player 96c4ff2ce9284d96a02fc464fcca00e5 already registered in session GameSession
+[2019.07.09-14.51.10:925][535]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.09-14.51.10:925][535]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.09-14.51.10:925][535]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.51.10:925][535]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.09-14.51.13:901][535]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.51.13:902][535]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.09-14.51.13:902][535]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.09-14.51.13:910][535]LogFactory: Warning: Put down failed because we where never equipped.
+[2019.07.09-14.51.13:910][535]LogFactory: Warning: Put down failed because we where never equipped.
+[2019.07.09-14.51.13:915][535]LogGame: Copying 0 recipes from old save format to new.
+[2019.07.09-14.51.13:916][535]LogEquipment: Warning: ArmSlot::SetOverrideEquipment, called twice with same equipment 'nullpeter'.
+[2019.07.09-14.51.13:927][535]LogWorld: Bringing World /Temp/Untitled_4.PreviewBuildingWorld up for play (max tick rate 0) at 2019.07.09-16.51.13
+[2019.07.09-14.51.13:927][535]LogWorld: Bringing up level for play took: 0.002160
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_01_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_01_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_02_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_05_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_03_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Rubble_Stone_02_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Rubble_Stone_05_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:040][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval TallMushroom_03_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval TallMushroom_01_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval TallMushroom_02_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_06_FoliageType in Persistent_Exploration
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval StoneThornBush_0_FoliageType in Persistent_Exploration_2
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Persistent_Exploration_2
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval screw_palm_1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_02_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_03_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_05_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_02_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Snake_Legs_03_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-01_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_002_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ceriman2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_01_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_02_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ceriman1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_03_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm3_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ceriman3_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantC_FT in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_03_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:041][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_FT in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_011_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_017_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_019_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_010_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval FieldFlower_03_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PrototypeTreeThicket_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots1_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots2_FoliageType in Tile_X1_Y0
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_013_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval screw_palm_1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_01_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok3_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks7_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks3_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_019_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ceriman2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_01_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_03_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:042][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Cat_palm2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Cat_palm1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_002_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_011_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_010_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_017_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_FT in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantC_FT in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_03_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_03_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis1_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis3_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis2_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantB_Coral_FT in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-01_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaviarTree_01_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_01 in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_02_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_03_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_04_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_05_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_06_FoliageType in Tile_X1_Y1
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Lowlands_OldPine_01_FT in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok3_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_02_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeLegs_04_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:043][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Snake_Legs_02_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Snake_Legs_03_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis3_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_02_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_03_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_05_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_01 in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_004_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Lowlands_Pine_01 in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval screw_palm_1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_012_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_013_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-03 in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Latan_palm2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_010_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Shroom_01_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval TallMushroom_01_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_01_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_02_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_01_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_002_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_03_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:044][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_04_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_03_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-01_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval FieldFlower_03_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveTite_0_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveTite_2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_3_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_2_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMate_1_FoliageType in Tile_X2_Y0
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_004_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval screw_palm_1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_013_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Latan_palm2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Lowlands_OldPine_01_FT in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Snake_Legs_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_002_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks3_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks7_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:045][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis3_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Snake_Legs_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok3_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Dypsis_palm1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BananaTree_01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bailey_palm_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bamboo2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bamboo3_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BigLeaf_01 in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval BigLeaf_03 in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_05_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-03 in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Cat_palm1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Cat_palm2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaviarTree_01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaviarTree_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_010_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_011_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_017_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_018_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantB_Coral_FT in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantC_Coral_FT in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantC_FT in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_FT in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PollenTree_01_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:046][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PollenTreeCluster_02_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval FieldFlower_03_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_06_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMate_1_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveTite_2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_3_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_2_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Kapok_01_Red_FoliageType in Tile_X2_Y1
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_05_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_01 in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_04_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Boulder_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval oleander2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Alocasia2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_CoverGround_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Philodendron1_1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_002_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:047][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Yucca_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_004_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval screw_palm_1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval GreenTree_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_013_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PlantModular_PlantD_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval roots2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Latan_palm2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Diospyros_Humilis3_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval SnakeStone_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Shroom_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Shroom_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks3_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval trunks7_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-03 in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_003_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CoralFlower_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CoralFlower_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CoralFlower_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:048][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_006_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval ficus2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Bush-01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PearlPlant_06_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PearlPlant_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PearlPlant_08_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Rubble_Stone_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Rubble_Stone_06_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval ficus3a_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_018_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval FieldFlower_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval ficus3_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval LowerVegetation_Plant_012_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CoralPiece_03_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CoralPiece_03_03_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Purple_Tree_02_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Purple_Tree_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Orange_palm1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Orange_palm2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval HuegelainenTree_Teenager_01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval HuegelainenTree_Kid01_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PearlPlant_05_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval PearlPlant_04_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval Ivy_Hanging_05_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CraterSmallBush_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMate_1_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveTite_0_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveTite_2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:049][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_3_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:050][535]LogTemp: Display: server BeginPlay AFGFoliageRemoval CaveMushroom_2_FoliageType in Tile_X3_Y0
+[2019.07.09-14.51.14:050][535]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.09-14.51.14:116][535]LogLoad: Took 8.127917 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2019.07.09-14.51.14:116][535]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.03, Realtime: 6.27. EpicNetDriver_0
+[2019.07.09-14.51.14:168][535]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.09-14.51.14:168][535]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.09-14.51.14:168][535]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.09-14.51.14:168][535]LogBuildGun: Warning: (Server) BP_BuildGun_C_0::GetDescriptorForRecipe could not get the descriptor nullpeter.
+[2019.07.09-14.51.14:780][535]LogStaticMesh: Allocated 512x512x268 distance field atlas = 134.0Mb, with 667 objects containing 113.0Mb backing data
+[2019.07.09-14.51.14:780][535]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2019.07.09-14.51.14:780][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-14.51.15:093][536]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 9.13, Realtime: 0.98. EpicNetDriver_0
+[2019.07.09-14.51.15:114][536]UEOSLog: Warning: Large tick time detected 10.1827
+[2019.07.09-14.51.15:133][536]LogSlate: Took 0.001035 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
+[2019.07.09-14.51.15:160][537]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.09-14.51.15:160][537]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.09-14.51.15:746][547]LogNet: New Dynamic NetSpeed 20000 vs old 20000
+[2019.07.09-14.51.16:684][562]LogOnlineSession: MCP: UpdateInternetSession complete, skipping online refresh.
+[2019.07.09-14.51.16:684][562]LogOnline: AFGGameSession::UpdateGameSession() seemed to work!
+[2019.07.09-14.51.18:976][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-14.51.19:972][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-14.51.21:380][640]LogPakFile: Warning: Pak chunk signing mismatch on chunk [4684/248388]! Expected 0x30B87CE7, Received 0x584D3F76
+[2019.07.09-14.51.21:380][640]LogPakFile: Warning: Pak file has been corrupted or tampered with!
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: 
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: Ensure condition failed: bChunkHashesMatch [File:C:\Jenkins\workspace\I_BuildVersion-staging\UE4\Engine\Source\Runtime\PakFile\Private\IPlatformFilePak.cpp] [Line: 3134]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: 
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: Stack: 
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79d09ab68 FactoryGame-Win64-Shipping.exe!FPakPrecacher::DoSignatureCheck() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\pakfile\private\iplatformfilepak.cpp:3139]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79d09b54d FactoryGame-Win64-Shipping.exe!TGraphTask<FAsyncIOSignatureCheckTask>::ExecuteTask() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\public\async\taskgraphinterfaces.h:834]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79c065fd6 FactoryGame-Win64-Shipping.exe!FTaskThreadAnyThread::ProcessTasksUntilQuit() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:846]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79c06910b FactoryGame-Win64-Shipping.exe!FTaskThreadBase::Run() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\private\async\taskgraph.cpp:517]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79c1aa96e FactoryGame-Win64-Shipping.exe!FRunnableThreadWin::Run() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:76]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff79c19fcfc FactoryGame-Win64-Shipping.exe!FRunnableThreadWin::GuardedRun() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:33]
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff97c214034 KERNEL32.DLL!UnknownFunction []
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: [Callstack] 0x00007ff97e273691 ntdll.dll!UnknownFunction []
+[2019.07.09-14.51.22:433][657]LogOutputDevice: Error: 

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-015987EC463936202444FAB4F6D0C099_0002</CrashGUID>
+		<ProcessId>11760</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>2553</SecondsSinceStart>
+		<GameName>UE4-FactoryGame</GameName>
+		<ExecutableName>FactoryGame-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID />
+		<Symbols>**FactoryGame*rel-main-ea-bu1-slim-CL-101665-Win64-Shipping</Symbols>
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName>CrabEA</DeploymentName>
+		<EngineVersion>4.21.2-101665+++FactoryGame+rel-main-ea-bu1-slim</EngineVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>1036</LanguageLCID>
+		<AppDefaultLocale>fr-CH</AppDefaultLocale>
+		<BuildVersion>++FactoryGame+rel-main-ea-bu1-slim-CL-101665</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName />
+		<BaseDir>C:/Program Files/Epic Games/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files/Epic Games/SatisfactoryEarlyAccess/</RootDir>
+		<MachineId>026052204C8A4A835C1F5EA065B76F95</MachineId>
+		<LoginId>026052204c8a4a835c1f5ea065b76f95</LoginId>
+		<EpicAccountId />
+		<CallStack>FactoryGame_Win64_Shipping!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\private\misc\assertionmacros.cpp:442]
+FactoryGame_Win64_Shipping!FRemovedInstanceArray::NetDeltaSerialize() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fgfoliageremoval.cpp:146]
+FactoryGame_Win64_Shipping!FObjectReplicator::SerializeCustomDeltaProperty() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\datareplication.cpp:137]
+FactoryGame_Win64_Shipping!FObjectReplicator::ReplicateCustomDeltaProperties() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\datareplication.cpp:1262]
+FactoryGame_Win64_Shipping!FObjectReplicator::ReplicateProperties() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\datareplication.cpp:1317]
+FactoryGame_Win64_Shipping!UActorChannel::ReplicateActor() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\datachannel.cpp:2763]
+FactoryGame_Win64_Shipping!UReplicationGraph::ReplicateSingleActor() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\plugins\runtime\replicationgraph\source\private\replicationgraph.cpp:1261]
+FactoryGame_Win64_Shipping!UReplicationGraph::ReplicateActorListsForConnection_Default() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\plugins\runtime\replicationgraph\source\private\replicationgraph.cpp:981]
+FactoryGame_Win64_Shipping!UReplicationGraph::ServerReplicateActors() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\plugins\runtime\replicationgraph\source\private\replicationgraph.cpp:682]
+FactoryGame_Win64_Shipping!UNetDriver::ServerReplicateActors() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\networkdriver.cpp:4013]
+FactoryGame_Win64_Shipping!UNetDriver::TickFlush() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\networkdriver.cpp:448]
+FactoryGame_Win64_Shipping!TBaseUObjectMethodDelegateInstance&lt;0,UNetDriver,void __cdecl(float)&gt;::ExecuteIfSafe() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:679]
+FactoryGame_Win64_Shipping!TBaseMulticastDelegate&lt;void,double&gt;::Broadcast() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+FactoryGame_Win64_Shipping!UWorld::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\leveltick.cpp:1612]
+FactoryGame_Win64_Shipping!UGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\engine\private\gameengine.cpp:1367]
+FactoryGame_Win64_Shipping!UFGGameEngine::Tick() [c:\jenkins\workspace\i_buildversion-staging\factorygame\source\factorygame\private\fggameengine.cpp:8]
+FactoryGame_Win64_Shipping!FEngineLoop::Tick() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launchengineloop.cpp:3703]
+FactoryGame_Win64_Shipping!GuardedMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\launch.cpp:216]
+FactoryGame_Win64_Shipping!GuardedMainWrapper() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+FactoryGame_Win64_Shipping!WinMain() [c:\jenkins\workspace\i_buildversion-staging\ue4\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+FactoryGame_Win64_Shipping!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+kernel32
+ntdll</CallStack>
+		<PCallStack>FactoryGame-Win64-Shipping 0x00000000582c0000 + 8f85b0 FactoryGame-Win64-Shipping 0x00000000582c0000 + 1e1ee39 FactoryGame-Win64-Shipping 0x00000000582c0000 + 1e1b7cf FactoryGame-Win64-Shipping 0x00000000582c0000 + 1e1bc04 FactoryGame-Win64-Shipping 0x00000000582c0000 + 1e19c2f FactoryGame-Win64-Shipping 0x00000000582c0000 + 329280 FactoryGame-Win64-Shipping 0x00000000582c0000 + 328525 FactoryGame-Win64-Shipping 0x00000000582c0000 + 32acbf FactoryGame-Win64-Shipping 0x00000000582c0000 + 205c5bc FactoryGame-Win64-Shipping 0x00000000582c0000 + 20641f9 FactoryGame-Win64-Shipping 0x00000000582c0000 + 2041a5d FactoryGame-Win64-Shipping 0x00000000582c0000 + f65482 FactoryGame-Win64-Shipping 0x00000000582c0000 + 1fcbf31 FactoryGame-Win64-Shipping 0x00000000582c0000 + 1ebe1aa FactoryGame-Win64-Shipping 0x00000000582c0000 + 911736 FactoryGame-Win64-Shipping 0x00000000582c0000 + 2f7933 FactoryGame-Win64-Shipping 0x00000000582c0000 + 2fe9dc FactoryGame-Win64-Shipping 0x00000000582c0000 + 2fea3a FactoryGame-Win64-Shipping 0x00000000582c0000 + 3079be FactoryGame-Win64-Shipping 0x00000000582c0000 + 2ffd837 KERNEL32 0x0000000037b00000 + 14034 ntdll 0x0000000037bf0000 + 73691</PCallStack>
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<ErrorMessage>Ensure condition failed: ( oldMap-&gt;Num() == CachedNumItemsToConsiderForWriting ) [File:C:\Jenkins\workspace\I_BuildVersion-staging\FactoryGame\Source\FactoryGame\Private\FGFoliageRemoval.cpp] [Line: 143] OldMap size (0) does not match item count (10)</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 630</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<GameStateName>BP_GameState_C</GameStateName>
+		<MemoryStats.TotalPhysical>17053216768</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>8559747072</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140723621392384</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>2583461888</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>4261179392</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>8129396736</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>8129396736</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636978359245250000</TimeOfCrash>
+		<bAllowToBeContacted>0</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+		<Modules>C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\Steamworks\Steamv139\Win64\steam_api64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\FactoryGame-Win64-Shipping.exe
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\Apex_Destructible_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEXFramework_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Binaries\Win64\dbgcore.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+C:\Program Files\Epic Games\SatisfactoryEarlyAccess\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll</Modules>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
